@@ -13,7 +13,7 @@
 - [Stock Market Prediction Using GAN paper](http://downloads.hindawi.com/journals/mpe/2018/4907423.pdf)
   - [Stock Market Prediction Using GAN 설명](https://dataplay.tistory.com/9)
 
-### Text segmentation
+### Text
 - [BERT-Stock-Prediction-Using-NLP](https://github.com/markbabbe/BERT-Stock-Prediction-Using-NLP)
 
 ### Reinforcement learning
