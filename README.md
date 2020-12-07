@@ -3,7 +3,7 @@
 
 
 ## 방법론
-### Basic
+#### Basic
 - FC
 - CNN
 - [LSTM](https://keraskorea.github.io/posts/2018-10-25-Keras%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%A3%BC%EC%8B%9D%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1/)
