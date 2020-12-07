@@ -15,6 +15,8 @@
 
 #### Text 방법론
 - [BERT-Stock-Prediction-Using-NLP](https://github.com/markbabbe/BERT-Stock-Prediction-Using-NLP)
+- [sentiment](https://youtu.be/4OlvGGAsj8I)
+
 
 #### Reinforcement learning 방법론
 - [Ensemble-Strategy](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020)
