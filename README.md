@@ -1,6 +1,5 @@
 # KospiStockPrediction
 
-## 자작
 
 ## 링크정리
 #### Basic 방법론
